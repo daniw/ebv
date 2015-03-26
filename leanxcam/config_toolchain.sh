@@ -1,0 +1,1 @@
+export PATH=$PATH:~/data/studium/sem6/ebv/leanxcam/toolchain-bin/bfin-elf/bin:~/data/studium/sem6/ebv/leanxcam/toolchain-bin/bfin-linux-uclibc/bin:~/data/studium/sem6/ebv/leanxcam/toolchain-bin/bfin-uclinux/bin
