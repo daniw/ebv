@@ -1,4 +1,10 @@
 ilias
 ilias_copy
+
 *.zip
 
+*.gdb
+*.o
+*app
+
+*.swp
