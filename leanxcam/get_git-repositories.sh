@@ -12,3 +12,5 @@ do
       echo "package $PKG already installed"  
    fi
 done
+
+git clone https://daniw@github.com/daniw/app-template app-template-zahn
