@@ -1,4 +1,4 @@
 #!/bin/bash
 ./mount.sh
-cp -r -u ilias ilias_copy
+cp -r -u -v ilias ilias_copy
 ./umount.sh
